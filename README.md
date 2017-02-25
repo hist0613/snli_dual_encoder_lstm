@@ -6,3 +6,5 @@
 * numpy
 * keras
 * tensorflow
+
+한국어로된 설명은 [제 블로그](http://blog.naver.com/hist0134/220944328300)에서 볼 수 있습니다.
